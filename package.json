@@ -1,0 +1,22 @@
+{
+  "name": "tea-gemtest",
+  "version": "1.0.0",
+  "description": "testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaksymOrshovskyi/tea-test1.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksymOrshovskyi/tea-test1/issues"
+  },
+  "homepage": "https://github.com/MaksymOrshovskyi/tea-test1#readme"
+}
