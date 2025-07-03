@@ -10,7 +10,7 @@ function subtract(num1, num2) {
 
 // Function for multiplying two numbers
 function multiply(num1, num2) {
-    return num1 * num2;
+    return num2 * num2;
 }
 
 // Function for dividing two numbers
